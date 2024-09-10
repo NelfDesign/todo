@@ -1,0 +1,17 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+     "preview": "vite preview"
+  },
+  "type": "module",
+  "author": "Fabrice",
+  "license": "ISC",
+  "description": "Todo list",
+  "devDependencies": {
+    "vite": "^5.4.3"
+  }
+}
